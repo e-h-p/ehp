@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emon Hossain Pallas
+title: Emon Hossain 
 
 # Name pronunciation (optional)
 name_pronunciation: ""
