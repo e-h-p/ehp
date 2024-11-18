@@ -3,7 +3,7 @@
 title: Emon Hossain Pallas
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Emon Hossain
@@ -22,16 +22,15 @@ highlight_name: true
 # Role/position/tagline
 role: Competitive Programmer | Student
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Jahangirnagar University
     url: https://juniv.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'e.h.pallas2002@gmail.com'
+    url: "mailto:e.h.pallas2002@gmail.com"
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/E_H_Pallas
@@ -41,30 +40,28 @@ profiles:
     url: https://github.com/e-h-p
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/e-h-p/
-#  - icon: academicons/google-scholar
-#    url: https://scholar.google.com/
- # - icon: academicons/orcid
- #   url: https://orcid.org/
 
+# Interests
 interests:
   - Artificial Intelligence
   - Competitive Programming
-  - Alogorithms and Data Structures
+  - Algorithms and Data Structures
 
+# Education
 education:
   - area: Computer Science and Engineering
     institution: Jahangirnagar University
     date_start: 2021-01-01
     date_end: ""
     summary: |
+      Focused on algorithms, data structures, and software development.
 
-- area: "HSC"
+  - area: "HSC"
     institution: "Dr. Mahbubur Rahman Mollah College"
     date_start: "2018-01-06"
     date_end: "2020-04-01"
     summary: |
       GPA: 5.0/5.0
-   
 
   - area: "SSC"
     institution: "Nurul Haq High School"
@@ -72,8 +69,8 @@ education:
     date_end: "2018-01-01"
     summary: |
       GPA: 5.0/5.0
-  
- 
+
+# Work Experience
 work:
   - position: "N/A"
     company_name: "N/A"
@@ -82,12 +79,10 @@ work:
     date_end: ""
     summary: |
       Responsibilities include:
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
+      - Learning and improving problem-solving skills.
+      - Exploring technology fields like artificial intelligence.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: "Technical Skills"
     items:
@@ -114,13 +109,12 @@ skills:
         percent: 80
         icon: "camera"
 
-
+# Languages
 languages:
   - name: English
     percent: 100
   - name: Bangla
     percent: 100
-  
 ---
 
 ## About Me
