@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Web Design Certification - FreeCodeCamp
+date: 2024-10-01
+external_link: https://github.com/e-h-p/Web-Design-Certification-FreeCodeCamp
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
+  - CSS
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Completed certification, building projects using HTML and CSS. Learned best practices for web design.
 
 <!--more-->
