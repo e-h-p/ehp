@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Metro Rail Project
+date: 2023-01-26
+external_link: https://github.com/e-h-p/Project-c-oop-
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - C++
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+OOP-based C++ console application built in the first year, applying key OOP principles for modularity.
 
 <!--more-->

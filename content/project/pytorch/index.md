@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Dhaka Metrorail
+date: 2023-10-01
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Java
+
+
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Java-based GUI application managing Dhaka Metrorail with OOP and MVC principles.
 
 <!--more-->

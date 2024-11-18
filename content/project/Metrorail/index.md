@@ -1,13 +1,13 @@
 ---
-title: Metrorail
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Tic Tac Toe Game
+date: 2024-11-01
+external_link: https://github.com/e-h-p/Tic-Tac-Toe-Game
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
+  - CSS
+  - JavAScript
 ---
 
-Emon Hossain Pallas
+Developed a Tic Tac Toe game with HTML, CSS, and JavaScript, offering a user-friendly interface.
 
 <!--more-->
